@@ -1,0 +1,15 @@
+{
+  "name": "code-to-spec",
+  "description": "Reverse-engineer source code into implementation-ready spec documents that another agent can use to recreate the code from scratch",
+  "author": {
+    "name": "roomedia"
+  },
+  "keywords": [
+    "reverse-engineering",
+    "spec",
+    "documentation",
+    "code-analysis",
+    "legacy",
+    "code-to-spec"
+  ]
+}

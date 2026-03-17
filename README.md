@@ -11,13 +11,13 @@ Analyzes your codebase and produces a set of SPEC_*.md documents detailed enough
 First, add the marketplace:
 
 ```
-/plugin marketplace add https://github.com/roomedia/code-to-spec.git
+/plugin marketplace add https://github.com/roomedia/claude-plugins.git
 ```
 
 Then install the plugin:
 
 ```
-/plugin install code-to-spec@code-to-spec
+/plugin install code-to-spec
 ```
 
 ## Usage

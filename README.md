@@ -11,7 +11,7 @@ Analyzes your codebase and produces a set of SPEC_*.md documents detailed enough
 First, add the marketplace:
 
 ```
-/plugin marketplace add https://github.com/roomedia/claude-plugins.git
+/plugin marketplace add https://github.com/roomedia/roomedia-plugins.git
 ```
 
 Then install the plugin:

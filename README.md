@@ -8,8 +8,16 @@ Analyzes your codebase and produces a set of SPEC_*.md documents detailed enough
 
 ## Install
 
+First, add the marketplace:
+
 ```
-/plugin install code-to-spec
+/plugin marketplace add https://github.com/roomedia/code-to-spec.git
+```
+
+Then install the plugin:
+
+```
+/plugin install code-to-spec@code-to-spec
 ```
 
 ## Usage
